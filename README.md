@@ -1,0 +1,2 @@
+# mypersonalapp
+django website
